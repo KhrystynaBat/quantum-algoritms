@@ -14,7 +14,7 @@ To run the scripts, you need the following:
 You can install the required dependencies using:
 
 ```bash
-pip install qutip numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Deutsch's Algorithm
